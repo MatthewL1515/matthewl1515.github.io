@@ -7,4 +7,4 @@
 ## How effectively do the commit messages communicate what I was doing?
 * I believe that my method of committing messages is clear about how I was working. Within the message commits, I plainly state what actions have been completed within the commit.
 ## How might I embed this process, or something similar in other places of my life?
-I can use this process in 
+* I already use this process in my daily life. When working on projects, we label our work as it's being done. When I read books for discussions at school, we annotate, allowing us to look back later to understand.
